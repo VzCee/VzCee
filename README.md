@@ -5,10 +5,19 @@
 
 <!-- Título con gif de computadora -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/215911/source.gif" alt="PC Gif" width="60"/>
-  VzCee | Sysadmin & Networking
-  <img src="https://media.giphy.com/media/215911/source.gif" alt="PC Gif" width="60"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&pause=1000&color=6EBB5B&center=true&width=435&lines=VzCeeH4ck1ng;Rookie+in+SysAdmin+%26+Networker" alt="Nombre gif" width="60"/>
 </h1>
+<details>
+  <summary>Things About me</summary>
+
+  <br>
+  -Mi nombre es *Cesar Valdez Elibo*
+  -Nacionalidad *Dominicano*
+  -Soy un entusiasta en el mundo de la *Ciberseguridad*, me gusta estudiar y aplicar los conocimientos aprendidos.
+  -Me encantan los retos de *Forensic*, *Reversing*, *Web* and *Malware *Analyst*.
+  -Quisiera Dedicarme en el mundo de la Ciberseguridad en el Blue Team y estoy estudiando para poder capacitarme en cert.
+
+</details>
 
 <!-- Badges técnicos -->
 <p align="center">
@@ -22,13 +31,11 @@
 ---
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ltdmZqZmRyaTZla2R5N3p1dDFkcm02dTJ1bmkybnRhOHRnb3I4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MpInizA3qTMYPEDwHx/giphy.gif" alt="pinguino estadistico" width="40"/> GitHub Stats
 
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VzCee&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VzCee&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
@@ -36,16 +43,16 @@
 ## <img src="https://media.giphy.com/media/5732/giphy.gif" alt="Warning Gif" width="40"/> Coming Soon
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coming Soon" width="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHo4NGRyYzZmMnR1dzM4djY1OTAxdHprNmVldWZ5eGdla3Jnc2o2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7SFyozD3zjCyQtwdX/giphy.gif" alt="Coming Soon" width="300"/>
 </p>
 
 ---
 
 <!-- Fun Fact con gif -->
-## 🧠 Fun fact
+## You need
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" alt="Brain Power" width="250"/>
+  <img src="https://img.freepik.com/vector-premium/piensa-fuera-caja-cita-motivacional-piense-fuera-caja-tipografia-cotizaciones-vector_471203-687.jpg?w=1060" alt="Brain Power" width="250"/>
 </p>
 
-> *"Si no hay chuleta, se inventa. Si no hay solución, se rompe el sistema."* 😤
+> *"Try it, make a mistake and try again, you only learn with this method "* 😤
