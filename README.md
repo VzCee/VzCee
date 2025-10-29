@@ -5,23 +5,24 @@
 
 <!-- Título animado estilo terminal en verde -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6EBB5B&center=true&vCenter=true&multiline=true&width=435&lines=VzCeeH4ck1ng;Rookie+in+SysAdmin+%26+Networker" alt="Nombre animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6EBB5B&center=true&vCenter=true&width=435&lines=VzCeeH4ck1ng;Rookie+in+SysAdmin+%26+Networker" alt="Nombre animado" />
 </p>
 
-<details>
  <details>
   <summary><strong>Things About Me</strong></summary>
   <br>
   <p style="font-size:16px">
     • Mi nombre es <strong>Cesar Valdez Elibo</strong><br>
+     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnduYXdxZHUyd3llMGJvNjdqN3FhdWRkaDJjY3hjOXVnMjFocmc1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif" width="40"/><br>
     <hr>
-    • Nacionalidad: <strong>Dominicano 🇩🇴</strong><br>
+    • Nacionalidad: <strong>Dominicano 🇩🇴</strong>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW91ZjJmbDFqY2JycDdzZzh0NmZrOXc5OWE4YmNlenc3cG5tMHk2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KW0kLBSKkjsCkXX8eW/giphy.gif" width="40"/><br>
     <hr>
     • Soy un entusiasta en el mundo de la <strong>Ciberseguridad</strong>, me gusta estudiar y aplicar los conocimientos aprendidos.<br>
     <hr>
     • Me encantan los retos de <strong>Forensic</strong>, <strong>Reversing</strong>, <strong>Web</strong> y <strong>Malware Analysis</strong><br>
     <hr>
-    • Quisiera dedicarme al mundo de la Ciberseguridad en el <strong>Blue Team</strong> y estoy estudiando para capacitarme en cert 🔐<br>
+    • Quisiera dedicarme al mundo de la Ciberseguridad en el <strong>Blue Team</strong> y estoy estudiando para capacitarme en certificaciones.
   </p>
 </details>
 
