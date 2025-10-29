@@ -3,25 +3,28 @@
   <img src="https://github.com/VzCee/VzCee/blob/main/banner.png" alt="Anime Banner" style="width:100%;"/>
 </p>
 
-<!-- Título con gif de computadora -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6EBB5B&center=true&vCenter=true&multiline=true&width=435&lines=VzCeeH4ck1ng;Rookie+in+SysAdmin+%26+Networker" alt="Nombre gif" width="60"/>
-</h1>
+<!-- Título animado estilo terminal en verde -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6EBB5B&center=true&vCenter=true&multiline=true&width=435&lines=VzCeeH4ck1ng;Rookie+in+SysAdmin+%26+Networker" alt="Nombre animado" />
+</p>
+
 <details>
-  <summary>Things About me</summary>
-
+ <details>
+  <summary><strong>Things About Me</strong></summary>
   <br>
-  - Mi nombre es *Cesar Valdez Elibo*
-  ---
-  - Nacionalidad *Dominicano*
-  ---
-  - Soy un entusiasta en el mundo de la *Ciberseguridad*, me gusta estudiar y aplicar los conocimientos aprendidos.
-  ---
-  - Me encantan los retos de *Forensic*, *Reversing*, *Web* and *Malware *Analyst*.
-  ---
-  - Quisiera Dedicarme en el mundo de la Ciberseguridad en el Blue Team y estoy estudiando para poder capacitarme en cert.
-
+  <p style="font-size:16px">
+    • Mi nombre es <strong>Cesar Valdez Elibo</strong><br>
+    <hr>
+    • Nacionalidad: <strong>Dominicano 🇩🇴</strong><br>
+    <hr>
+    • Soy un entusiasta en el mundo de la <strong>Ciberseguridad</strong>, me gusta estudiar y aplicar los conocimientos aprendidos.<br>
+    <hr>
+    • Me encantan los retos de <strong>Forensic</strong>, <strong>Reversing</strong>, <strong>Web</strong> y <strong>Malware Analysis</strong><br>
+    <hr>
+    • Quisiera dedicarme al mundo de la Ciberseguridad en el <strong>Blue Team</strong> y estoy estudiando para capacitarme en cert 🔐<br>
+  </p>
 </details>
+
 
 <!-- Badges técnicos -->
 <p align="center">
