@@ -5,17 +5,21 @@
 
 <!-- Título con gif de computadora -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=150&pause=1000&color=6EBB5B&center=true&vCenter=true&multiline=true&width=435&lines=VzCeeH4ck1ng;Rookie+in+SysAdmin+%26+Networker" alt="Nombre gif" width="60"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6EBB5B&center=true&vCenter=true&multiline=true&width=435&lines=VzCeeH4ck1ng;Rookie+in+SysAdmin+%26+Networker" alt="Nombre gif" width="60"/>
 </h1>
 <details>
   <summary>Things About me</summary>
 
   <br>
-  -Mi nombre es *Cesar Valdez Elibo*
-  -Nacionalidad *Dominicano*
-  -Soy un entusiasta en el mundo de la *Ciberseguridad*, me gusta estudiar y aplicar los conocimientos aprendidos.
-  -Me encantan los retos de *Forensic*, *Reversing*, *Web* and *Malware *Analyst*.
-  -Quisiera Dedicarme en el mundo de la Ciberseguridad en el Blue Team y estoy estudiando para poder capacitarme en cert.
+  - Mi nombre es *Cesar Valdez Elibo*
+  ---
+  - Nacionalidad *Dominicano*
+  ---
+  - Soy un entusiasta en el mundo de la *Ciberseguridad*, me gusta estudiar y aplicar los conocimientos aprendidos.
+  ---
+  - Me encantan los retos de *Forensic*, *Reversing*, *Web* and *Malware *Analyst*.
+  ---
+  - Quisiera Dedicarme en el mundo de la Ciberseguridad en el Blue Team y estoy estudiando para poder capacitarme en cert.
 
 </details>
 
