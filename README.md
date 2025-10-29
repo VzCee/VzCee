@@ -66,4 +66,4 @@
   <img src="https://img.freepik.com/vector-premium/piensa-fuera-caja-cita-motivacional-piense-fuera-caja-tipografia-cotizaciones-vector_471203-687.jpg?w=1060" alt="Brain Power" width="250"/>
 </p>
 
-> *"Try it, make a mistake and try again, you only learn with this method "* 😤
+> *"Try it, make a mistake and try again, you only learn with this method "* 💙
