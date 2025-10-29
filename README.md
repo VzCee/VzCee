@@ -5,11 +5,11 @@
 
 <!-- Título animado estilo terminal en verde -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6EBB5B&center=true&vCenter=true&multiline=true&width=435&lines=VzCeeH4ck1ng;Rookie+in+SysAdmin+%26+Networker" alt="Nombre animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6EBB5B&center=true&vCenter=true&width=435&lines=VzCeeH4ck1ng;Rookie+in+SysAdmin+%26+Networker" alt="Nombre animado" />
 </p>
 
 <details>
-  <summary><strong>🧠 Things About Me</strong></summary>
+  <summary><strong> Things About Me</strong></summary>
   <br>
   <p style="font-size:16px">
     • Mi nombre es <strong>Cesar Valdez Elibo</strong>
