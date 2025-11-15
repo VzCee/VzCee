@@ -5,7 +5,7 @@
 
 <!-- Título animado estilo terminal en verde -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=2%3E%2Fdev%2Fnull%2FVzCee;DFIR+Jr." alt="Nombre animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=2%3E%2Fdev%2Fnull%2FVzCee;DFIR+Jr." alt="Nombre animado" />
 </div>
 
 <details>
