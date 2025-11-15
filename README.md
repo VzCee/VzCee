@@ -5,7 +5,7 @@
 
 <!-- Título animado estilo terminal en verde -->
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=6EBB5B&center=true&vCenter=true&width=435&lines=VzCeeH4ck1ng;Rookie+in+SysAdmin+%26+Networker](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=2%3E%2Fdev%2Fnull%2FVzCee;DFIR+Jr.)" alt="Nombre animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=2%3E%2Fdev%2Fnull%2FVzCee;DFIR+Jr." alt="Nombre animado" />
 </p>
 
 <details>
