@@ -44,9 +44,7 @@
 ## <img src="https://media4.giphy.com/media/MpInizA3qTMYPEDwHx/giphy.gif" alt="pinguino estadistico" width="40"/> GitHub Stats
 
 <p align="center">
-  <!-- Streak Stats (mirror estable) -->
-  <img src="https://streak-stats.demolab.com?user=VzCee&theme=radical" alt="GitHub Streak Stats" />
-  <br>
+  
   <!-- Activity Graph (mirror estable) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VzCee&theme=radical" alt="GitHub Activity Graph" />
 </p>
