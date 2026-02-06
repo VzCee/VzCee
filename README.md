@@ -13,22 +13,21 @@
   <br>
   <p style="font-size:16px">
     • Mi nombre es <strong>Cesar Valdez Elibo</strong>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnduYXdxZHUyd3llMGJvNjdqN3FhdWRkaDJjY3hjOXVnMjFocmc1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif" width="30" style="vertical-align:middle;"/><br>
+    <img src="https://media3.giphy.com/media/frSfC5NcmyF7q/giphy.gif" width="30" style="vertical-align:middle;"/><br>
     <hr>
     • Nacionalidad: <strong>Dominicano 🇩🇴</strong>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW91ZjJmbDFqY2JycDdzZzh0NmZrOXc5OWE4YmNlenc3cG5tMHk2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KW0kLBSKkjsCkXX8eW/giphy.gif" width="30" style="vertical-align:middle;"/><br>
+    <img src="https://media3.giphy.com/media/KW0kLBSKkjsCkXX8eW/giphy.gif" width="30" style="vertical-align:middle;"/><br>
     <hr>
     • Soy un entusiasta en el mundo de la <strong>Ciberseguridad</strong>, me gusta estudiar y aplicar los conocimientos aprendidos.
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVoNmp2cDRrdHNmZ3hiODFueXZzMWFtazU5ZHNjYTh2Ym9rMzB1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eiw5TjbFXUcu4JRzGe/giphy.gif" width="30" style="vertical-align:middle;"/><br>
+    <img src="https://media3.giphy.com/media/eiw5TjbFXUcu4JRzGe/giphy.gif" width="30" style="vertical-align:middle;"/><br>
     <hr>
      • Me encantan los retos de <strong>Forensic</strong>, <strong>Reversing</strong>, <strong>Web</strong> y <strong>Malware Analysis</strong>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpxMnoydG9yazVoN25rYWt3Yjk1cm9xbHBzZTVhc2d3aXJkdW9ocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif" width="30" style="vertical-align:middle;"/><br>
+    <img src="https://media1.giphy.com/media/lp3GUtG2waC88/giphy.gif" width="30" style="vertical-align:middle;"/><br>
     <hr>
     • Member of <strong>Blue Team</strong>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDA0aXpicWRyMHVicWF2M3llNWlqaTJiZGN1ajc2bnM4cWFqemUwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AhiqxtJD8xANv5CtnO/giphy.gif" width="30" style="vertical-align:middle;"/><br>
+    <img src="https://media3.giphy.com/media/AhiqxtJD8xANv5CtnO/giphy.gif" width="30" style="vertical-align:middle;"/><br>
   </p>
 </details>
-
 
 <!-- Badges técnicos -->
 <p align="center">
@@ -42,11 +41,15 @@
 ---
 
 <!-- GitHub Stats -->
-## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ltdmZqZmRyaTZla2R5N3p1dDFkcm02dTJ1bmkybnRhOHRnb3I4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MpInizA3qTMYPEDwHx/giphy.gif" alt="pinguino estadistico" width="40"/> GitHub Stats
+## <img src="https://media4.giphy.com/media/MpInizA3qTMYPEDwHx/giphy.gif" alt="pinguino estadistico" width="40"/> GitHub Stats
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VzCee&theme=radical" alt="GitHub Stats" />
+<p align="center">
+  <!-- Streak Stats (mirror estable) -->
+  <img src="https://streak-stats.demolab.com?user=VzCee&theme=radical" alt="GitHub Streak Stats" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VzCee&theme=radical" alt="Top Languages" />
+  <!-- Activity Graph (mirror estable) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VzCee&theme=radical" alt="GitHub Activity Graph" />
+</p>
 
 ---
 
@@ -54,7 +57,7 @@
 ## <img src="https://media.giphy.com/media/5732/giphy.gif" alt="Warning Gif" width="40"/> Coming Soon
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHo4NGRyYzZmMnR1dzM4djY1OTAxdHprNmVldWZ5eGdla3Jnc2o2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f7SFyozD3zjCyQtwdX/giphy.gif" alt="Coming Soon" width="300"/>
+  <img src="https://media3.giphy.com/media/f7SFyozD3zjCyQtwdX/giphy.gif" alt="Coming Soon" width="300"/>
 </p>
 
 ---
@@ -67,3 +70,4 @@
 </p>
 
 > *"Try it, make a mistake and try again, you only learn with this method "* 💙
+
